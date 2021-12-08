@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-# Sooyeon 
-
+# 자기소개 
+* 문과 대학 졸업예정
 * 현재 파이썬을 활용한 데이터 분석 공부 중....
 
 ## 사용 가능한 기술
